@@ -1,4 +1,6 @@
 /*styles*/
 p{
     color: red;
+    padding: 4px;
+    margin: 1rem;
 }
